@@ -1,0 +1,4 @@
+admin;admin;ADMIN;
+supervisor;supervisor;SUPERVISOR;
+kasir1;kasir1;CASHIER;
+kasir2;kasir2;CASHIER;

@@ -1,0 +1,16 @@
+1;Refrigerator LG GN C422SLCN;Rumah Tangga;3;7900000.00;
+2;Air Conditioner Sharp XP6WHY;Rumah Tangga;4;6690000.00;
+3;Washing Machine Sanken AWS 830;Rumah Tangga;8;3919000.00;
+4;Samsung 43 Smart Monitor LS43BM70;Kantor;11;5999000.00;
+5;Finger Print GL 660;Kantor;9;1799000.00;
+6;Epson Printer MFC L6290;Kantor;5;5499000.00;
+7;Samsung Galaxy S22 Ultra;Smartphone;23;17699000.00;
+8;JBL Live 300TWS Black;Smartphone;5;2699000.00;
+9;Samsung Galaxy Tab S8 Plus 5G;Smartphone;13;16099000.00;
+10;Microphone JBL VM300E;Home Audio;24;5999000.00;
+11;Yamaha Main Speaker NSF700;Home Audio;8;15479000.00;
+12;Sony Soundbar HT S400;Home Audio;25;2849000.00;
+13;Epson Projector EB X51;Projector;20;6199000.00;
+14;Acer Projector BS 120PV;Projector;12;4929000.00;
+15;Acer LCD Projector MRJQF11;Projector;24;9199000.00;
+;;;32762;0.00;
